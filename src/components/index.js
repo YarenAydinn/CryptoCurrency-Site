@@ -1,0 +1,13 @@
+export { default as HotCryptos } from './HotCryptos'
+export { default as HotFiat } from './HotFiat'
+export { default as Fiat } from './Fiat'
+export { default as Cryptos } from './Cryptos'
+export { default as Auth } from './Auth'
+export { default as Header } from './Header'
+export { default as Pagination } from './Pagination'
+export {default as SearchBar} from './SearchBar'
+export {default as CryptoCurrencyList} from './CryptoCurrencyList'
+export {default as Swap} from './Swap'
+export {default as WalletDiversity} from './WalletDiversity'
+export {default as News} from './News'
+
